@@ -5,8 +5,8 @@
 </p>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateus-aguiaar&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="gráfico de estatísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-aguiaar&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="gráfico de idiomas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mateus-aguiaar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-aguiaar&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Langs" />
 </div>
 
 <br>
