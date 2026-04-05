@@ -1,37 +1,60 @@
-<h1 align="left">Olá, 👋! Meu nome é Mateus</h1>
+<h1 align="center">Fala aí 👋, eu sou Mateus Davi</h1>
 
-<p align="left">
-  Estudante e apaixonado por tecnologia.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=28&center=true&vCenter=true&width=1000&lines=Estudante+de+Sistemas+de+Informação;Apaixonado+por+Tecnologia+e+Programação;Python+%7C+Java+%7C+SQL;Sempre+aprendendo+algo+novo+🚀" />
 </p>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateus-aguiaar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-aguiaar&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Langs" />
-</div>
+---
 
-<br>
+## 🚀 Sobre mim
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-</div>
+- 🎓 Estudante de **Sistema de Informação** na **CESAR School**
+- 💻 Curto desenvolver projetos e aprender novas tecnologias
+- 📚 Focado em **Python, Java, SQL e desenvolvimento**
+- 🔥 Buscando evoluir cada vez mais como programador
 
-<br>
+---
 
-<div align="left">
+## 🛠️ Tecnologias e Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,vscode,mysql,git,github,html,css" />
+</p>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mateus-aguiaar&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-aguiaar&layout=compact&theme=midnight-purple&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Sequência de contribuições
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mateus-aguiaar&theme=midnight-purple&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="center">
   <a href="https://www.instagram.com/mateus.aguiaar/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mateusdavi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+</p>
 
-<br>
+---
 
 ## 🐍 Animação de contribuições
 
-![snake animation](https://raw.githubusercontent.com/mateus-aguiaar/mateus-aguiaar/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mateus-aguiaar/mateus-aguiaar/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
