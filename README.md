@@ -18,16 +18,7 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,vscode,mysql,git,github,html,css" />
-</p>
-
----
-
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mateus-aguiaar&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-aguiaar&layout=compact&theme=midnight-purple&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=python,java,vscode,mysql,github" />
 </p>
 
 ---
