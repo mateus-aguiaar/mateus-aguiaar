@@ -11,11 +11,15 @@
 
 ### Sobre mim
 
-Estudante de **Sistemas de Informação** na UNIP Campinas (2º semestre), focado em desenvolvimento **Back-end** e iniciando minha jornada em **Engenharia/Análise de Dados**. Possuo base em Python e C (estruturas de dados, ponteiros e manipulação de arquivos) e estou expandindo conhecimentos em SQL, Pandas e ecossistema de APIs/Docker. Busco minha primeira oportunidade como estagiário ou desenvolvedor júnior.
+- 🎓 Estudante de **Sistemas de Informação** na **Unip Campinas** (2º semestre)
+- 🐍 Base sólida em **Python** e **C**, estudando estruturas de dados, arquivos, exceções e ponteiros
+- 📊 Aprendendo **SQL**, **Power BI** e **Pandas** — de olho em uma trilha de dados
+- 🐳 Explorando **Docker**, **APIs REST** e automação (n8n, Evolution API)
+- 🔍 Buscando minha primeira oportunidade como **estagiário/dev júnior**
 
 ---
 
-### Foco no momento
+### 🔭 Foco no momento
 
 * Consolidar fundamentos em **Python** e **C**, preparando a transição para **Java**.
 * Aplicar conceitos de **APIs REST**, **Docker** e **SQL** em projetos práticos.
@@ -27,7 +31,7 @@ Estudante de **Sistemas de Informação** na UNIP Campinas (2º semestre), focad
 
 ---
 
-### Projetos em destaque
+### 💼 Projetos em destaque
 
 <p>
   <img src="https://img.shields.io/badge/EASY%20SUN-black?style=for-the-badge&logo=python&logoColor=white" alt="EasySun Badge" />
@@ -36,7 +40,7 @@ Estudante de **Sistemas de Informação** na UNIP Campinas (2º semestre), focad
   </a>
 </p>
 
-Plataforma em Python para análise de orçamentos de energia solar desenvolvida no CESAR School. Conta com CRUD em CSV nativo (sem libs externas), integração com **Arduino UNO + LDR** para medição de incidência solar e algoritmo próprio (`score_orcamento`) para cálculo de payback e viabilidade.
+Plataforma em Python para análise de orçamentos de energia solar desenvolvida no CESAR School. Conta com CRUD em CSV nativo (sem libs externas), integração com **Arduino UNO + LDR** para medição de incidência solar e algoritmo próprio (**score_orcamento**) para cálculo de payback e viabilidade.
 
 ---
 
@@ -91,14 +95,10 @@ No back-end e dados, foco em **Python**, **C** e **SQL** para construção de l�
 ---
 
 ### Contato
+⭐️ Aberto a oportunidades como **estagiário** ou **desenvolvedor júnior**. Bora trocar uma ideia sobre algum projeto!
 
-Aberto a oportunidades como desenvolvedor júnior ou estagiário. Se quiser trocar uma ideia sobre projetos ou vagas, contate por aqui:
+### 📫 Contato:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mateusdavi">
-    <img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vhg.contacts@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail" alt="Gmail" />
-  </a>
-</p>
+- 📧 vhg.contacts@gmail.com
+- 📍 Campinas, São Paulo, Brasil
+- 💼 LinkedIn: [mateusdavi](https://www.linkedin.com/in/mateusdavi)
