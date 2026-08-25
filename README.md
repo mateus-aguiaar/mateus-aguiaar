@@ -25,10 +25,6 @@
 * Aplicar conceitos de **APIs REST**, **Docker** e **SQL** em projetos práticos.
 * Evoluir integrações reais e automações do zero até produção em ambiente VPS.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateus-aguiaar&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
 ---
 
 ### 💼 Projetos em destaque
@@ -69,7 +65,15 @@ Aplicação real em produção rodando 24/7 em VPS (**Docker + Traefik**). Utili
 ### Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-aguiaar&layout=compact&theme=dark" alt="Top Langs" />
+  <a href="https://github.com/mateus-aguiaar">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=mateus-aguiaar&show_icons=true&theme=dark" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mateus-aguiaar">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mateus-aguiaar&layout=compact&theme=dark" alt="Top Langs" />
+  </a>
 </p>
 
 ---
