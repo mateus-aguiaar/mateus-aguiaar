@@ -24,17 +24,14 @@ Estudante de **Sistemas de Informação** na Unip Campinas, focado em back-end e
 
 ### 💼 Projetos em destaque
 
-**☀️ EasySun** — `[LINK DO REPO AQUI]`
+**☀️ EasySun** — `https://github.com/projeto-G3/projeto-easysun.git`
 Plataforma de análise de orçamentos de energia solar, projeto em grupo no CESAR School. Sistema em Python com CRUD via CSV (sem usar o módulo `csv`), integração com Arduino UNO + sensor LDR para captar incidência solar real, e uma função de pontuação (`score_orcamento`) que avalia payback, incidência, preço e geração. Interface de terminal com caracteres Unicode.
 
-**🐾 Adoção+** — `[LINK DO REPO AQUI]`
+**🐾 Adoção+** — `https://github.com/Adocao-G3/projeto-fp-adocao-plus-g3.git`
 Sistema colaborativo de gestão de adoção de animais, em Python, com persistência em CSV. Trabalhei em correções de encoding (BOM/UTF-8-sig), um sistema de sorteio com rotação justa, e no fluxo de agendamentos e verificação de animais.
 
-**💈 Site da Barbearia** — `[LINK/URL AQUI]`
+**💈 Site da Barbearia** — `(https://barbeariazero22.com.br)`
 Projeto real em produção: site construído na Lovable, com bot de WhatsApp automatizado via **n8n + Evolution API**, rodando 24/7 em uma VPS (Docker + Traefik). O fluxo confirma agendamentos automaticamente e envia lembretes, com dados salvos em **Supabase**.
-
-**💊 Smart Pill Reminder** — `[LINK DO REPO AQUI]`
-Projeto acadêmico em Arduino: lembrete inteligente de remédios com display LCD 16x2 I2C, buzzer e LEDs, usando `millis()` para polling não bloqueante e lógica de prioridade de alarmes.
 
 ---
 
@@ -65,7 +62,6 @@ Projeto acadêmico em Arduino: lembrete inteligente de remédios com display LCD
 
 - 📧 vhg.contacts@gmail.com
 - 📍 Campinas, São Paulo, Brasil
-- 🔗 GitHub: [github.com/mateus-aguiaar](https://github.com/mateus-aguiaar)
 - 💼 LinkedIn: `[LINK DO LINKEDIN AQUI]`
 
 ---
