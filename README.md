@@ -26,7 +26,7 @@
 * Evoluir integrações reais e automações do zero até produção em ambiente VPS.
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateus-aguiaar&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateus-aguiaar&theme=github-compact" width="100%" alt="Activity Graph" />
 </p>
 
 ---
@@ -69,9 +69,11 @@ Aplicação real em produção rodando 24/7 em VPS (**Docker + Traefik**). Utili
 ### Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-aguiaar&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mateus-aguiaar&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-aguiaar&layout=compact&theme=dark" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mateus-aguiaar&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 ---
