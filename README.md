@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-BUSCANDO_ESTÁGIO_%2F_DEV_JR-black?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/STACK-BACKEND_%2F_DADOS-black?style=for-the-badge" alt="Stack" />
-  <img src="https://img.shields.io/badge/LOC-CAMPINAS_SP-black?style=for-the-badge" alt="Localização" />
-  <img src="https://img.shields.io/badge/GRAU-SIST._INFORMAÇÃO-black?style=for-the-badge" alt="Grau" />
+  <img src="https://img.shields.io/badge/STATUS-BUSCANDO_ESTÁGIO_%2F_DEV_JR-21262d?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/STACK-BACKEND_%2F_DADOS-21262d?style=for-the-badge" alt="Stack" />
+  <img src="https://img.shields.io/badge/LOC-CAMPINAS_SP-21262d?style=for-the-badge" alt="Localização" />
+  <img src="https://img.shields.io/badge/GRAU-SIST._INFORMAÇÃO-21262d?style=for-the-badge" alt="Grau" />
 </p>
 
 <h1 align="center">Fala aí 👋, eu sou o Mateus</h1>
@@ -34,9 +34,9 @@
 ### 💼 Projetos em destaque
 
 <p>
-  <img src="https://img.shields.io/badge/EASY%20SUN-black?style=for-the-badge&logo=python&logoColor=white" alt="EasySun Badge" />
+  <img src="https://img.shields.io/badge/EASY%20SUN-21262d?style=for-the-badge&logo=python&logoColor=white" alt="EasySun Badge" />
   <a href="https://github.com/projeto-G3/projeto-easysun.git">
-    <img src="https://img.shields.io/badge/REPOSITÓRIO-black?style=for-the-badge&logo=github" alt="Repositório" />
+    <img src="https://img.shields.io/badge/REPOSITÓRIO-21262d?style=for-the-badge&logo=github" alt="Repositório" />
   </a>
 </p>
 
@@ -45,9 +45,9 @@ Plataforma em Python para análise de orçamentos de energia solar desenvolvida 
 ---
 
 <p>
-  <img src="https://img.shields.io/badge/ADOÇÃO%2B-black?style=for-the-badge&logo=python&logoColor=white" alt="Adoção+ Badge" />
+  <img src="https://img.shields.io/badge/ADOÇÃO%2B-21262d?style=for-the-badge&logo=python&logoColor=white" alt="Adoção+ Badge" />
   <a href="https://github.com/Adocao-G3/projeto-fp-adocao-plus-g3.git">
-    <img src="https://img.shields.io/badge/REPOSITÓRIO-black?style=for-the-badge&logo=github" alt="Repositório" />
+    <img src="https://img.shields.io/badge/REPOSITÓRIO-21262d?style=for-the-badge&logo=github" alt="Repositório" />
   </a>
 </p>
 
@@ -56,9 +56,9 @@ Sistema colaborativo de gestão para adoção animal em Python com persistência
 ---
 
 <p>
-  <img src="https://img.shields.io/badge/BARBEARIA%20ZERO22-black?style=for-the-badge&logo=n8n&logoColor=white" alt="Barbearia Badge" />
+  <img src="https://img.shields.io/badge/BARBEARIA%20ZERO22-21262d?style=for-the-badge&logo=n8n&logoColor=white" alt="Barbearia Badge" />
   <a href="https://barbeariazero22.com.br">
-    <img src="https://img.shields.io/badge/DEMO-black?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo" />
+    <img src="https://img.shields.io/badge/DEMO-21262d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo" />
   </a>
 </p>
 
@@ -70,6 +70,7 @@ Aplicação real em produção rodando 24/7 em VPS (**Docker + Traefik**). Utili
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-aguiaar&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=mateus-aguiaar&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
@@ -77,19 +78,20 @@ Aplicação real em produção rodando 24/7 em VPS (**Docker + Traefik**). Utili
 
 ### Stack e ferramentas
 
-No back-end e dados, foco em **Python**, **C** e **SQL** para construção de lógica sólida e estruturação de dados. Na infraestrutura e automação, utilizo **Docker**, **n8n**, **Supabase** e **Git** para versionamento e deploy.
+No back-end e dados, foco em **Python**, **C** e **SQL** para construção de lógica sólida e estruturação de dados. Na infraestrutura e automação, utilizo **Docker**, **n8n**, **Supabase** e **Git** para versionamento e deploy. Também possuo vivência básica com **C++** em projetos com **Arduino**.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c" alt="C" />
-  <img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql" alt="SQL" />
-  <img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas" alt="Pandas" />
-  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase" alt="Supabase" />
-  <img src="https://img.shields.io/badge/-n8n-black?style=flat-square&logo=n8n" alt="n8n" />
-  <img src="https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino" alt="Arduino" />
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git" />
-  <img src="https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode" alt="VS Code" />
+  <img src="https://img.shields.io/badge/-Python-21262d?style=flat-square&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/-C-21262d?style=flat-square&logo=c" alt="C" />
+  <img src="https://img.shields.io/badge/-C++-21262d?style=flat-square&logo=cplusplus" alt="C++" />
+  <img src="https://img.shields.io/badge/-SQL-21262d?style=flat-square&logo=mysql" alt="SQL" />
+  <img src="https://img.shields.io/badge/-Pandas-21262d?style=flat-square&logo=pandas" alt="Pandas" />
+  <img src="https://img.shields.io/badge/-Docker-21262d?style=flat-square&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Supabase-21262d?style=flat-square&logo=supabase" alt="Supabase" />
+  <img src="https://img.shields.io/badge/-n8n-21262d?style=flat-square&logo=n8n" alt="n8n" />
+  <img src="https://img.shields.io/badge/-Arduino-21262d?style=flat-square&logo=arduino" alt="Arduino" />
+  <img src="https://img.shields.io/badge/-Git-21262d?style=flat-square&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/-VS%20Code-21262d?style=flat-square&logo=visualstudiocode" alt="VS Code" />
 </p>
 
 ---
