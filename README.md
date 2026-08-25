@@ -62,7 +62,7 @@ Projeto real em produção: site construído na Lovable, com bot de WhatsApp aut
 
 - 📧 vhg.contacts@gmail.com
 - 📍 Campinas, São Paulo, Brasil
-- 💼 LinkedIn: `[LINK DO LINKEDIN AQUI]`
+- 💼 LinkedIn: `[www.linkedin.com/in/mateusdavi]`
 
 ---
 
