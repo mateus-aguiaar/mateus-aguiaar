@@ -1,69 +1,104 @@
-# Fala aí 👋, eu sou Mateus
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-BUSCANDO_ESTÁGIO_%2F_DEV_JR-black?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/STACK-BACKEND_%2F_DADOS-black?style=for-the-badge" alt="Stack" />
+  <img src="https://img.shields.io/badge/LOC-CAMPINAS_SP-black?style=for-the-badge" alt="Localização" />
+  <img src="https://img.shields.io/badge/GRAU-SIST._INFORMAÇÃO-black?style=for-the-badge" alt="Grau" />
+</p>
 
-Estudante de **Sistemas de Informação** na Unip Campinas, focado em back-end e começando a trilhar o caminho de dados.
-
----
-
-### 🚀 Sobre mim
-
-- 🎓 Estudante de **Sistemas de Informação** na **Unip Campinas** (2º semestre)
-- 🐍 Base sólida em **Python** e **C**, estudando estruturas de dados, arquivos, exceções e ponteiros
-- 📊 Aprendendo **SQL**, **Power BI** e **Pandas** — de olho em uma trilha de dados
-- 🐳 Explorando **Docker**, **APIs REST** e automação (n8n, Evolution API)
-- 🔍 Buscando minha primeira oportunidade como **estagiário/dev júnior**
+<h1 align="center">Fala aí 👋, eu sou o Mateus</h1>
 
 ---
 
-### 🔭 Foco no momento
+### Sobre mim
 
-- Consolidar fundamentos de **Python** e **C** enquanto avanço para **Java** no próximo semestre
-- Aprender **API, Docker, REST e SQL** na prática
-- Evoluir um projeto real (site + automação) do zero até produção em VPS
+Estudante de **Sistemas de Informação** na UNIP Campinas (2º semestre), focado em desenvolvimento **Back-end** e iniciando minha jornada em **Engenharia/Análise de Dados**. Possuo base em Python e C (estruturas de dados, ponteiros e manipulação de arquivos) e estou expandindo conhecimentos em SQL, Pandas e ecossistema de APIs/Docker. Busco minha primeira oportunidade como estagiário ou desenvolvedor júnior.
 
 ---
 
-### 💼 Projetos em destaque
+### Foco no momento
 
-**☀️ EasySun** — `https://github.com/projeto-G3/projeto-easysun.git`
-Plataforma de análise de orçamentos de energia solar, projeto em grupo no CESAR School. Sistema em Python com CRUD via CSV (sem usar o módulo `csv`), integração com Arduino UNO + sensor LDR para captar incidência solar real, e uma função de pontuação (`score_orcamento`) que avalia payback, incidência, preço e geração. Interface de terminal com caracteres Unicode.
+* Consolidar fundamentos em **Python** e **C**, preparando a transição para **Java**.
+* Aplicar conceitos de **APIs REST**, **Docker** e **SQL** em projetos práticos.
+* Evoluir integrações reais e automações do zero até produção em ambiente VPS.
 
-**🐾 Adoção+** — `https://github.com/Adocao-G3/projeto-fp-adocao-plus-g3.git`
-Sistema colaborativo de gestão de adoção de animais, em Python, com persistência em CSV. Trabalhei em correções de encoding (BOM/UTF-8-sig), um sistema de sorteio com rotação justa, e no fluxo de agendamentos e verificação de animais.
-
-**💈 Site da Barbearia** — `(https://barbeariazero22.com.br)`
-Projeto real em produção: site construído na Lovable, com bot de WhatsApp automatizado via **n8n + Evolution API**, rodando 24/7 em uma VPS (Docker + Traefik). O fluxo confirma agendamentos automaticamente e envia lembretes, com dados salvos em **Supabase**.
-
----
-
-### 🛠️ Tecnologias e ferramentas
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateus-aguiaar&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</p>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Projetos em destaque
 
-![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateus-aguiaar&show_icons=true&theme=dark)
+<p>
+  <img src="https://img.shields.io/badge/EASY%20SUN-black?style=for-the-badge&logo=python&logoColor=white" alt="EasySun Badge" />
+  <a href="https://github.com/projeto-G3/projeto-easysun.git">
+    <img src="https://img.shields.io/badge/REPOSITÓRIO-black?style=for-the-badge&logo=github" alt="Repositório" />
+  </a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-aguiaar&layout=compact&theme=dark)
-
----
-
-### 📫 Contato
-
-- 📧 vhg.contacts@gmail.com
-- 📍 Campinas, São Paulo, Brasil
-- 💼 LinkedIn: `[www.linkedin.com/in/mateusdavi]`
+Plataforma em Python para análise de orçamentos de energia solar desenvolvida no CESAR School. Conta com CRUD em CSV nativo (sem libs externas), integração com **Arduino UNO + LDR** para medição de incidência solar e algoritmo próprio (`score_orcamento`) para cálculo de payback e viabilidade.
 
 ---
 
-⭐️ Aberto a oportunidades como **estagiário** ou **desenvolvedor júnior**. Bora trocar uma ideia sobre algum projeto?
+<p>
+  <img src="https://img.shields.io/badge/ADOÇÃO%2B-black?style=for-the-badge&logo=python&logoColor=white" alt="Adoção+ Badge" />
+  <a href="https://github.com/Adocao-G3/projeto-fp-adocao-plus-g3.git">
+    <img src="https://img.shields.io/badge/REPOSITÓRIO-black?style=for-the-badge&logo=github" alt="Repositório" />
+  </a>
+</p>
+
+Sistema colaborativo de gestão para adoção animal em Python com persistência em CSV. Atuei diretamente na resolução de encoding (BOM/UTF-8-sig), arquitetura do algoritmo de sorteio com rotação justa e regras de agendamento.
+
+---
+
+<p>
+  <img src="https://img.shields.io/badge/BARBEARIA%20ZERO22-black?style=for-the-badge&logo=n8n&logoColor=white" alt="Barbearia Badge" />
+  <a href="https://barbeariazero22.com.br">
+    <img src="https://img.shields.io/badge/DEMO-black?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo" />
+  </a>
+</p>
+
+Aplicação real em produção rodando 24/7 em VPS (**Docker + Traefik**). Utiliza **n8n + Evolution API** para automatizar o fluxo de atendimento e agendamento via WhatsApp, integrado ao banco de dados **Supabase**.
+
+---
+
+### Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-aguiaar&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mateus-aguiaar&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+
+### Stack e ferramentas
+
+No back-end e dados, foco em **Python**, **C** e **SQL** para construção de lógica sólida e estruturação de dados. Na infraestrutura e automação, utilizo **Docker**, **n8n**, **Supabase** e **Git** para versionamento e deploy.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c" alt="C" />
+  <img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql" alt="SQL" />
+  <img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas" alt="Pandas" />
+  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase" alt="Supabase" />
+  <img src="https://img.shields.io/badge/-n8n-black?style=flat-square&logo=n8n" alt="n8n" />
+  <img src="https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino" alt="Arduino" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode" alt="VS Code" />
+</p>
+
+---
+
+### Contato
+
+Aberto a oportunidades como desenvolvedor júnior ou estagiário. Se quiser trocar uma ideia sobre projetos ou vagas, contate por aqui:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mateusdavi">
+    <img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vhg.contacts@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail" alt="Gmail" />
+  </a>
+</p>
